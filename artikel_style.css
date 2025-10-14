@@ -1,0 +1,42 @@
+/* Element Selector */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2C3E50;
+    text-align: center;
+    font-size: 3.em;
+}
+p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #4C5F70;
+}
+h2 {
+    color: black;
+    text-align: left;
+    text-decoration: solid;
+}
+
+/* Class Selector */
+.dampak-penting {
+    background-color: #F8F9FA;
+    padding: 15px;
+    border-left: 5px solid black;
+    font-weight: bold;
+}
+
+/* Id Selector */
+#Kesimpulan p {
+    text-align: right;
+    font-style: italic;
+    margin-top: 30px;
+}
+#Kesimpulan a {
+    text-align: right;
+    color: blue;
+    text-decoration: none; /* Menghilangkan garis bawah tautan */
+    font-weight: bold;
+}
