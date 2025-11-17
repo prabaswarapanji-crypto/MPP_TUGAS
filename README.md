@@ -2,4 +2,4 @@
 *Disusun oleh: Panji Prabaswara - XI-GIM 2*
 
 ## Daftar Tugas Praktik Mandiri
-1.  [Tugas Mandiri 3: Daftar Belanja Interaktif]()
+1.  [Tugas Mandiri 3: Daftar Belanja ](#daftar_belanja.html)
