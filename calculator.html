@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kalkulator Sederhana</title>
+        <style>
+            input [type="number"] {
+                padding: 8px;
+                margin: 5px;
+                width: 150px;
+            }
+            button {
+                padding: 10px 15px;
+                margin: 5px;
+                cursor: pointer;
+            }
+            #hasilKalkulasi {
+                margin-top: 20px;
+                font-size: 1.2em;
+                font-weight: bold;
+                padding: 10px;
+                border: 1px solid #ccc;
+                background-color: #f9f9f9;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Kalkulator Sederhana</h1>
+
+        <input type="number" id="angka1" placeholder="Angka pertama" value="0">
+        <input type="number" id="angka2" placeholder="Angka kedua" value="0">
+
+        <br>
+
+        <button onclick="tambah()">Tambah (+)</button>
+        <button onclick="kurang()">Kurang (-)</button>
+        <button onclick="kali()">Kali (*)</button>
+        <button onclick="bagi()">Bagi (/)</button>
+
+        <p id="hasilKalkulasi">Hasil: 0</p>
+        
+        <script src="calculator_script.js"></script>
+    </body>
+</html>
