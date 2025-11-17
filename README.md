@@ -49,3 +49,52 @@ Tugas di bagian ini sudah terverifikasi dan berfungsi dengan baik.
 * **JS:** [comment_script.js](comment_script.js)
 
 ---
+
+---
+
+## 🔗 Daftar Tugas Praktik Mandiri 1-5
+
+### 1. Tugas Mandiri 1
+
+| File |
+| :--- |
+| [tugas_mandiri_1.html] |
+| [gaya_tugas1.css] |
+
+---
+
+### 2. Tugas Mandiri 2
+
+| File |
+| :--- |
+| [tugas_mandiri_2.html] |
+| [gaya_tugas_2.css] |
+
+---
+
+### 3. Tugas Mandiri 3: Daftar Belanja Interaktif
+
+| File |
+| :--- |
+| [daftar_belanja.html](daftar_belanja.html) |
+| [belanja_script.js](belanja_script.js) |
+
+---
+
+### 4. Tugas Mandiri 4: Kalkulator Sederhana
+
+| File |
+| :--- |
+| [calculator.html](calculator.html) |
+| [calculator_script.js](calculator_script.js) |
+
+---
+
+### 5. Tugas Mandiri 5: Kotak Komentar dengan Validasi
+
+| File |
+| :--- |
+| [comment_box.html](comment_box.html) |
+| [comment_script.js](comment_script.js) |
+
+---
