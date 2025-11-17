@@ -6,3 +6,4 @@
 | :--- | :--- |
 | [daftar_belanja.html](daftar_belanja.html) | Struktur HTML dan antarmuka daftar belanja. |
 | [belanja_script.js](belanja_script.js) | Logika penambahan/penghapusan item menggunakan array. |
+1
