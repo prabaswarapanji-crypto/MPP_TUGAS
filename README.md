@@ -1,78 +1,111 @@
 # 📚 Kumpulan Tugas Mata Pelajaran Pilihan Pemrograman Web (MPP)
 *Disusun oleh: Panji Prabaswara - XI-GIM 2*
 
-## 1. Dasar-Dasar HTML
+## 1. HTML
 
-**Tujuan:** Memahami struktur dasar dokumen web, penggunaan tag semantik, dan pembentukan konten.
-
-| Pertemuan | Nama Tugas (Sesuai Modul) | File Terkait | Status |
-| :---: | :--- | :--- | :---: |
-| P-1 | [Tugas Pengenalan Tag Dasar] | [file_dasar_html.html] | Selesai |
-| P-2 | [Tugas Membuat Tabel dan Form] | [tugas_form.html] | Selesai |
-| P-3 | **[Tugas Mandiri HTML Spesifik]** | [tugas_mandiri_3_html.html] | Selesai |
-| *(Dst.)* | ... | ... | ... |
-
----
-
-## 2. Styling dengan CSS
-
-**Tujuan:** Menerapkan style pada elemen HTML menggunakan berbagai metode selektor, box model, dan layout dasar.
-
-| Pertemuan | Nama Tugas (Sesuai Modul) | File Terkait | Status |
-| :---: | :--- | :--- | :---: |
-| P-4 | [Tugas Selektor dan Properti Dasar] | [style_dasar.css] | Selesai |
-| P-5 | [Tugas Box Model & Layout] | [box_model.html] | Selesai |
-| P-6 | **[Tugas Mandiri CSS Spesifik]** | [tugas_mandiri_6_css.html] | Selesai |
-| *(Dst.)* | ... | ... | ... |
-
----
-
-## 3. Interaksi dengan JavaScript
-
-**Tujuan:** Memahami manipulasi DOM, *event handling*, validasi form, dan logika interaktif.
-
-Tugas di bagian ini sudah terverifikasi dan berfungsi dengan baik.
-
-### Tugas Mandiri 3: Daftar Belanja Interaktif
-**Fokus:** Array, `push()`, `pop()`, dan `renderList()` ke DOM.
-* **HTML:** [daftar_belanja.html](daftar_belanja.html)
-* **JS:** [belanja_script.js](belanja_script.js)
-
-### Tugas Mandiri 4: Kalkulator Sederhana
-**Fokus:** Pengambilan input (`Number()`), fungsi aritmatika, dan penanganan error (pembagian nol).
-* **HTML:** [calculator.html](calculator.html)
-* **JS:** [calculator_script.js](calculator_script.js)
-
-### Tugas Mandiri 5: Kotak Komentar dengan Validasi
-**Fokus:** `event listener`, validasi **minimal 5 karakter** (`.length`), dan penghapusan elemen (`.removeChild()`).
-* **HTML:** [comment_box.html](comment_box.html)
-* **JS:** [comment_script.js](comment_script.js)
-
----
-
----
-
-## 🔗 Daftar Tugas Praktik Mandiri 1-5
-
-### 1. Tugas Mandiri 1
+### 1. Tugas Mandiri 1: Profil Saya
 
 | File |
 | :--- |
-| [tugas_mandiri_1.html] |
-| [gaya_tugas1.css] |
+| [profil_saya.html]( profil_saya.html) |
 
 ---
 
-### 2. Tugas Mandiri 2
+### 2. Tugas Mandiri 2: Hobi dan Makanan
 
 | File |
 | :--- |
-| [tugas_mandiri_2.html] |
-| [gaya_tugas_2.css] |
+| [hobi_dan_makanan.html]( hobi_dan_makanan.html) |
 
 ---
 
-### 3. Tugas Mandiri 3: Daftar Belanja Interaktif
+### 3. Tugas Mandiri 3: Galeri dan Kontak
+
+| File |
+| :--- |
+| [galeri_dan_kontak.html]( galeri_dan_kontak.html) |
+| [1.jpeg]( 1.jpeg) |
+| [2.jpeg]( 2.jpeg) |
+| [3.jpeg]( 3.jpeg) |
+
+---
+
+### 4. Tugas Mandiri 4: Biodata dan Feedback
+
+| File |
+| :--- |
+| [biodata_dan_feedback.html]( biodata_dan_feedback.html) |
+
+---
+
+
+## 2. CSS
+
+### 1. Tugas Mandiri 1: My Page
+
+| File |
+| :--- |
+| [my_page.html]( my_page.html) |
+| [main.css](main.css) |
+
+---
+
+### 2. Tugas Mandiri 2: Artikel
+
+| File |
+| :--- |
+| [artikel.html](artikel.html) |
+| [artikel_style.css]( artikel_style.css) |
+
+---
+
+### 3. Tugas Mandiri 3: Produk
+
+| File |
+| :--- |
+| [produk.html](produk.html) |
+| [produk_style.css]( produk_style.css) |
+| [01_S24Ultra-Group-KV_MO_0627.png]( 01_S24Ultra-Group-KV_MO_0627.png) |
+| [Apple-MacBook-Pro.jpg]( Apple-MacBook-Pro.jpg) |
+| [Apple watch.jpeg]( Apple watch.jpeg) |
+
+---
+
+### 4. Tugas Mandiri 4: Portofolio
+
+| File |
+| :--- |
+| [portofolio.html](portofolio.html) |
+| [portofolio_style.css]( portofolio_style.css) |
+| [website2.webp]( website2.webp) |
+| [website3.webp]( website3.webp) |
+| [website4.webp]( website4.webp) |
+| [website1.webp]( website1.webp) |
+| [aplikasi.webp]( aplikasi.webp) |
+
+---
+
+## 3. JavaScript
+
+### 1. Tugas Mandiri 1: My Profil
+
+| File |
+| :--- |
+| [my_profil.html]( my_profil.html) |
+| [my_profil_script.js]( my_profil_script.js) |
+
+---
+
+### 2. Tugas Mandiri 2: Grade Checker
+
+| File |
+| :--- |
+| [grade_checker.html]( grade_checker.html) |
+| [grade_script.js]( grade_script.js) |
+
+---
+
+### 3. Tugas Mandiri 3: Daftar Belanja
 
 | File |
 | :--- |
@@ -90,7 +123,7 @@ Tugas di bagian ini sudah terverifikasi dan berfungsi dengan baik.
 
 ---
 
-### 5. Tugas Mandiri 5: Kotak Komentar dengan Validasi
+### 5. Tugas Mandiri 5: Comment Box
 
 | File |
 | :--- |
